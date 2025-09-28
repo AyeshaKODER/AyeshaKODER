@@ -98,7 +98,7 @@
 | 🎓 **Alumni Connect Platform** | Student-alumni engagement portal | Salesforce Education Cloud | 🌐 **Live Platform** |
 | 🤖 **PGRKaam Chatbot** | NLP-driven government service chatbot | Python, Flask, NLP | 🏛️ **Government Initiative** |
 | 🔮 **Autonomous Multi-Agent System** | AI system with decentralized decision-making | MCP, Python, Advanced AI | 🚧 **Ongoing Research** |
-
+| 💳 **[School Payment System](https://github.com/AyeshaKODER/school-payment)** | Full-stack microservices payment platform for educational institutions | React.js, NestJS, MongoDB Atlas, JWT | 🚀 **Live Production System** |
 </div>
 
 ---
