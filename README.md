@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E91E63&width=500&lines=Computer+Engineering+Student+%40+MHSSCE;Full+Stack+Developer;AI+%26+Federated+Learning+Researcher;9.50+CGPA+%7C+Building+Real-World+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E91E63&width=500&lines=Computer+Engineering+Graduate+%40+MHSSCE;Full+Stack+Developer;AI+%26+Federated+Learning+Researcher;9.51+CGPA+%7C+Building+Real-World+Solutions)](https://git.io/typing-svg)
   
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-9.50%2F10-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-9.51%2F10-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Privacy%20Preserving%20AI-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Expertise-Full%20Stack%20%2B%20ML-blue?style=for-the-badge" />
 </p>
@@ -18,7 +18,7 @@
 
 > *Solution-focused Computer Engineering student with expertise in full-stack development, machine learning, and mobile app development*
 
-- 🎓 **B.E Computer Engineering** at M.H Saboo Siddik College of Engineering, Mumbai (Expected: June 2026)
+- 🎓 **B.E Computer Engineering** at M.H Saboo Siddik College of Engineering, Mumbai 
 - 🔭 Currently building an **Autonomous Multi-Agent System** with decentralized decision-making and **Model Context Protocol (MCP)**
 - 🏥 Specialized in **Privacy-Preserving Healthcare AI** using Federated Learning
 - 🌱 Deep diving into **Advanced ML, Healthcare Tech, and Scalable System Architecture**
@@ -31,8 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iayeshakoder)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyeshaKODER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iayeshakhan2004@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%209833879584-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+919833879584)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshakkhan225@gmail.com)
 
 </details>
 
@@ -93,12 +92,13 @@
 
 | Project | Description | Tech Stack | Achievement |
 |---------|-------------|------------|-------------|
-| 🏥 **Federated Learning in Healthcare** | Privacy-preserving disease prediction with real-world medical datasets | Flask-SocketIO, Ngrok, TensorFlow | 🥈 **2nd Place @ IIGC 2025** |
-| 🚂 **Railway Reservation System** | Full-featured Android app with modern UI/UX | Jetpack Compose, SQLite, Maps API | 📱 **Production Ready** |
-| 🎓 **Alumni Connect Platform** | Student-alumni engagement portal | Salesforce Education Cloud | 🌐 **Live Platform** |
-| 🤖 **PGRKaam Chatbot** | NLP-driven government service chatbot | Python, Flask, NLP | 🏛️ **Government Initiative** |
-| 🔮 **Autonomous Multi-Agent System** | AI system with decentralized decision-making | MCP, Python, Advanced AI | 🚧 **Ongoing Research** |
+| 🔮 **[Autonomous Multi-Agent System](https://github.com/AyeshaKODER/amas-project)** | AI system with decentralized decision-making — Published Research | SPADE, Python, Docker, RabbitMQ, FastAPI | 📄 **Published @ JICTASA 2026** |
 | 💳 **[School Payment System](https://github.com/AyeshaKODER/school-payment)** | Full-stack microservices payment platform for educational institutions | React.js, NestJS, MongoDB Atlas, JWT | 🚀 **Live Production System** |
+| 🏥 **Federated Learning in Healthcare** | Privacy-preserving disease prediction with real-world medical datasets | Flask-SocketIO, Ngrok, TensorFlow | 🥈 **2nd Place @ IIGC 2025** |
+| 🌱 **[Crop Disease Detection using Deep Learning](https://github.com/AyeshaKODER/crop-disease-detection)** | An AI-powered plant disease detection system using Convolutional Neural Networks (CNNs) and Transfer Learning | TensorFlow, MobileNetV2, Streamlit, Python | 🥈 **96.2% Test Accuracy** |
+| 🎓 **Alumni Connect Platform** | Student-alumni engagement portal | Salesforce Education Cloud | 🌐 **Live Platform** |
+
+
 </div>
 
 ---
@@ -107,18 +107,19 @@
 
 <div align="center">
 
-### 🎓 Academic Performance
-**CGPA: 9.50/10** - B.E Computer Engineering (2026) | **91.05%** - Diploma in Civil Engineering (2023)
-
 ### 🥇 Achievements & Awards
 
 🥈 **2nd Place @ IIGC 2025** - *M.H. Saboo Siddik College of Engineering*
 > Presented Federated Learning solution for privacy-preserving AI in healthcare, finance, and IoT
 
-🥉 **2nd Runner-Up @ Tantra Utsav** - *State-Level Technical Paper Presentation*
-> Recognized for technical depth and presentation clarity among top state participants
+🥉 **3rd Place @ Unthink Hackathon** - *12-Hour Hackathon, MHSSCE April 2026*
+> Presented Autonomous Multi-Agent System as a scalable business model
 
-🏅 **Multiple State-Level Contest Winner** - *Innovation & Technical Implementation*
+📄 **Published Researcher** - *JICTASA, Vol. 2(2), June 2026*
+> Lead & Corresponding Author — A Dynamic Spawner-Agent Framework for Scalable Autonomous Distributed Multi-Agent System. DOI: [Published Paper](https://doi.org/10.64189/ict.26306)
+
+🎤 **International Conference Presenter** - *SmartSSD 2026*
+> Presented research on Scalable Autonomous Distributed Multi-Agent Framework (Paper ID: 61)
 
 </div>
 
@@ -160,41 +161,6 @@
 | 🎨 **Innovation** | Balances creativity with functionality |
 
 </div>
-
----
-
-## 🔥 Current Focus Areas
-
-```python
-class AyeshaKhan:
-    def __init__(self):
-        self.education = {
-            "current": "B.E Computer Engineering @ MHSSCE",
-            "cgpa": "9.50/10",
-            "graduation": "June 2026"
-        }
-        self.current_projects = [
-            "Autonomous Multi-Agent System",
-            "Privacy-Preserving Healthcare AI"
-        ]
-        self.expertise = [
-            "Full Stack Development (MERN, Spring Boot)",
-            "Mobile Development (Android, Jetpack Compose)",
-            "Machine Learning & Federated Learning",
-            "Database Management & API Integration"
-        ]
-        self.achievements = ["IIGC 2025 Runner-Up", "State-Level Contest Winner"]
-        
-    def current_focus(self):
-        return {
-            "learning": ["Advanced AI", "Healthcare Tech", "System Architecture"],
-            "building": ["Scalable Applications", "Privacy-Preserving Solutions"],
-            "goal": "Turning academic research into production-ready solutions"
-        }
-    
-    def collaborate(self):
-        return "Open to AI research, healthcare tech, and enterprise projects!"
-```
 
 ---
 
