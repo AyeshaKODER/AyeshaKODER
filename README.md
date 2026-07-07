@@ -94,7 +94,7 @@
 |---------|-------------|------------|-------------|
 | 🔮 **[Autonomous Multi-Agent System](https://github.com/AyeshaKODER/amas-project)** | AI system with decentralized decision-making — Published Research | SPADE, Python, Docker, RabbitMQ, FastAPI | 📄 **Published @ JICTASA 2026** |
 | 💳 **[School Payment System](https://github.com/AyeshaKODER/school-payment)** | Full-stack microservices payment platform for educational institutions | React.js, NestJS, MongoDB Atlas, JWT | 🚀 **Live Production System** |
-| 🏥 **Federated Learning in Healthcare** | Privacy-preserving disease prediction with real-world medical datasets | Flask-SocketIO, Ngrok, TensorFlow | 🥈 **2nd Place @ IIGC 2025** |
+| 🔮 **[FedVault](https://github.com/AyeshaKODER/fedvault)** | Production-grade federated learning platform for privacy-preserving chest X-ray classification across 3 hospital nodes — adversarial detection, Non-IID handling, gradient compression | FastAPI, PyTorch, ResNet-18, Streamlit, JWT | 📄 **[Research Prototype](https://github.com/AyeshaKODER/fedvault)** |
 | 🌱 **[Crop Disease Detection using Deep Learning](https://github.com/AyeshaKODER/crop-disease-detection)** | An AI-powered plant disease detection system using Convolutional Neural Networks (CNNs) and Transfer Learning | TensorFlow, MobileNetV2, Streamlit, Python | 🥈 **96.2% Test Accuracy** |
 | 🎓 **Alumni Connect Platform** | Student-alumni engagement portal | Salesforce Education Cloud | 🌐 **Live Platform** |
 
