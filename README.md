@@ -41,6 +41,29 @@
 
 Writing at [ayeshakoder.hashnode.dev](https://ayeshakoder.hashnode.dev)
 
+## ✍️ Featured writing
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://ayeshakoder.hashnode.dev/believable-is-not-correct"><img src="https://cdn.hashnode.com/uploads/covers/6a59099e619595c76c8303b3/40004ebc-d769-499a-ade9-bcb4c42293f4.png" alt="Believable Is Not Correct" /></a><br>
+<b><a href="https://ayeshakoder.hashnode.dev/believable-is-not-correct">Believable Is Not Correct</a></b><br>
+<sub>Oct 9, 2026 · AI agents, evals, guardrails</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://ayeshakoder.hashnode.dev/stanford-method-illusion-multi-agent-rag-multiplies-the-bias"><img src="https://cdn.hashnode.com/uploads/covers/6a59099e619595c76c8303b3/43b4f1dc-ab72-4381-bf24-cfaa8a9c3ca2.png" alt="The Stanford Method Illusion" /></a><br>
+<b><a href="https://ayeshakoder.hashnode.dev/stanford-method-illusion-multi-agent-rag-multiplies-the-bias">The "Stanford Method" Illusion</a></b><br>
+<sub>Sep 2, 2026 · Multi-agent RAG and bias</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://ayeshakoder.hashnode.dev/i-built-a-vulnerable-llm-bot-and-caught-my-own-judge-lying-to-me"><img src="https://cdn.hashnode.com/uploads/covers/6a59099e619595c76c8303b3/edf20327-316f-4c7b-8d1b-311e17fcd995.svg" alt="I Built a Vulnerable LLM Bot" /></a><br>
+<b><a href="https://ayeshakoder.hashnode.dev/i-built-a-vulnerable-llm-bot-and-caught-my-own-judge-lying-to-me">I Built a Vulnerable LLM Bot and Caught My Own Judge Lying to Me</a></b><br>
+<sub>Aug 5, 2026 · LLM security</sub>
+</td>
+</tr>
+</table>
+
+### More posts
 <!-- BLOG-POST-LIST:START -->
 - [PHP2Shell: The Decade Old Flaw Behind 70% of the Web](https://ayeshakoder.hashnode.dev/php2shell-the-decade-old-flaw-behind-70-of-the-web)
 - [Believable Is Not Correct](https://ayeshakoder.hashnode.dev/believable-is-not-correct)
