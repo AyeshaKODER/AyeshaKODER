@@ -42,6 +42,11 @@
 Writing at [ayeshakoder.hashnode.dev](https://ayeshakoder.hashnode.dev)
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP2Shell: The Decade Old Flaw Behind 70% of the Web](https://ayeshakoder.hashnode.dev/php2shell-the-decade-old-flaw-behind-70-of-the-web)
+- [Believable Is Not Correct](https://ayeshakoder.hashnode.dev/believable-is-not-correct)
+- [The &quot;Stanford Method&quot; Illusion: When Multi-Agent RAG Multiplies the Bias](https://ayeshakoder.hashnode.dev/stanford-method-illusion-multi-agent-rag-multiplies-the-bias)
+- [I Built a Vulnerable LLM Bot and Caught My Own Judge Lying to Me](https://ayeshakoder.hashnode.dev/i-built-a-vulnerable-llm-bot-and-caught-my-own-judge-lying-to-me)
+- [Defending LLMs: What Actually Works, and Where It Still Breaks](https://ayeshakoder.hashnode.dev/defending-llms-what-actually-works-and-where-it-still-breaks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
